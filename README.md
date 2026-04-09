@@ -130,7 +130,7 @@ covid19-forecasting-analysis/
 ├── covid_forecasting_analysis.ipynb
 ├── covid_analysis_report.pdf
 ├── data/
-│ ├── covid19_data.csv
+│ ├── covid_19_data.csv
 │ └── mobility_report.csv
 
 ---
